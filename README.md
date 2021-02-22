@@ -6,6 +6,10 @@
 * アプリケーションサーバー(app)
    nginxを経由してPHPを動作させるアプリケーションサーバを構築
    PHPパッケージ管理ツールComposerのインストール
-   
 * データベースサーバー(db)
   MySQLデータベースサーバーの構築
+
+### laravel インストール
+* Laravelをインストールしてwelcome画面の表示
+* LaravelとMySQLを連携し、マイグレーションを実行、接続確認
+* Sequel Aceで管理
