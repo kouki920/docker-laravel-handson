@@ -1,4 +1,4 @@
-# docker-laravel 開発練習
+# docker-laravel 開発練習(git flowを意識する)
 
 ### 3層アーキテクチャのコンテナの構築
 * ウェブサーバー(web)
