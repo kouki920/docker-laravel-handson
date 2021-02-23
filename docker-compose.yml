@@ -10,6 +10,7 @@ services:
   #nginx
   web:
     container_name: nginx
+    build: ./infra/nginx
     image: nginx:1.18-alpine
     ports:
       - 10080:80
